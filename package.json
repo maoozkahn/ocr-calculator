@@ -1,0 +1,6 @@
+{
+  "name": "ocr-calculator",
+  "version": "1.0.0",
+  "description": "OCR Calculator Web App",
+  "type": "module"
+}
